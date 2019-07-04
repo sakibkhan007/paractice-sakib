@@ -1,0 +1,86 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+body:{
+	
+
+}
+.container{
+   width:70%;
+   margin:0 auto;
+   height: 950px;
+
+
+}
+.signup{
+	background:url(../img/258.jpg) no-repeat;
+	background-size: cover;
+    width:100%;
+    float:left;
+
+}
+.sign-content{
+    width:50%;
+    float:left;
+     margin-top: 140px;
+}
+h1{
+    color:white;
+}
+.bg{
+   background::rgba(128, 128, 128, 0.56);
+   width:100%;
+}
+.sign-register{
+	width: 45%;
+	margin-top: 110px;
+	background: rgba(48, 108, 134, 0.42);
+	float: left;
+	margin-right:0px;
+    height:300px
+}
+.form-box{
+	width:60%;
+	height: 250px;
+	margin-top: 20px;
+	margin-left: 107px;
+
+}
+.list{
+    margin-left:50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+
+}
+.from-control{
+    margin-top:10px;
+    margin-bottom:5px;
+    margin-left:20px;
+    padding:4px;
+    padding-right:120px;
+
+}
+.btn{
+    font-size:16px;
+    margin-top:10px;
+    cursor:pointer;
+    background:rgb(95, 151, 172);
+    transition: 0.8s ease;
+    border-color:#fff;
+    border-radius: 8px;
+    padding: 4px;
+    margin-left: 30px;
+}
+.btn:hover{
+	box-shadow:1px 2px 3px black;
+}
+.now{
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+.bg{
+	background:rgba(128, 128, 128, 0.27);
+}
